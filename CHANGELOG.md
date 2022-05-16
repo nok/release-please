@@ -4,6 +4,14 @@
 
 [1]: https://www.npmjs.com/package/release-please?activeTab=versions
 
+### [13.16.3](https://github.com/googleapis/release-please/compare/v13.16.2...v13.16.3) (2022-05-16)
+
+
+### Bug Fixes
+
+* add release labels if release PR was completed ([#1433](https://github.com/googleapis/release-please/issues/1433)) ([072498c](https://github.com/googleapis/release-please/commit/072498c8ce2f89bc86eb33445d87491e3ab31fbd))
+* workspace plugins should update manifest versions ([#1429](https://github.com/googleapis/release-please/issues/1429)) ([ab802a9](https://github.com/googleapis/release-please/commit/ab802a924704044b26017b40a2da48657022faad))
+
 ### [13.16.3](https://github.com/googleapis/release-please/compare/v13.16.2...v13.16.3) (2022-05-13)
 
 
